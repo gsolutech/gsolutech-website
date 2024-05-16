@@ -48,3 +48,16 @@ footer .part2 ul i {
     font-size: 40px;
     margin: 20px;
 }
+footer .part3 {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+footer .part4 {
+    width: 100%;
+    height: 20px;
+    background-color: black;
+}
