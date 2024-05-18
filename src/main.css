@@ -79,6 +79,54 @@ span {
 }
 
 /* Services */
+.services {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.service-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.service {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.service img {
+    max-width: 100px;
+}
+
+h1, h2 {
+    margin: 20px 0;
+}
+h1 {
+    margin-bottom: 80px;
+    font-size: 40px;
+}
+p {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #666;
+}
+
+.contact {
+    text-align: center;
+    padding: 20px;
+}
+
+.contact h2 {
+    margin: 40px 0 20px;
+}
 
 
 
