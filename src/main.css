@@ -18,7 +18,7 @@ header {
     margin-bottom: 30px;
 }
 header img {
-    max-width: 160px;
+    max-width: 150px;
 }
 header .links a {
     text-decoration: none;
@@ -31,7 +31,7 @@ header .links a:hover {
 }
 button {
     background-color:#339999;
-    padding: 15px;
+    padding: 10px;
     color: aliceblue;
     border-radius: 20px;
     border: none;
@@ -57,7 +57,7 @@ button:hover {
     font-size: 15px;
     border-radius: 30px;
     padding: 15px;
-    margin-top: 60px;
+    margin-top: 30px;
 }
 span {
     color: #ff9933;
