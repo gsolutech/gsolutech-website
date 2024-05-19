@@ -231,7 +231,9 @@ footer .part1, .part2 {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    text-align: center;
     margin: auto;
+    float: center;
 }
 footer .part1 img {
     width: 250px;
@@ -244,10 +246,14 @@ footer .part1 hr {
     opacity: 50%;
     border-radius: 4px;
 }
-footer .part2 ul {
+footer .part2 div {
     width: 30%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
 }
-footer .part2 ul i {
+footer .part2 div i {
     font-size: 40px;
     margin: 20px;
 }
@@ -259,6 +265,7 @@ footer .part3 {
     align-items: center;
     margin: auto;
     margin-bottom: 30px;
+    text-align: center;
 }
 footer .part4 {
     width: 100%;
