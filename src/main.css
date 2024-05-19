@@ -118,22 +118,28 @@ p {
     color: #666;
 }
 
-/* .contact {
+.contact {
     text-align: center;
     padding: 20px;
 }
 
 .contact h2 {
     margin: 40px 0 20px;
-} */
+}
 
 /* contact */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
 .contact{
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: rgb(227, 223, 223);
+    background: none;
     margin: 10px;
 }
 
