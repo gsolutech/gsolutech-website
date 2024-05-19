@@ -163,14 +163,14 @@ footer .part1 hr {
     opacity: 50%;
     border-radius: 4px;
 }
-footer .part2 ul {
+footer .part2 div {
     width: 30%;
     justify-content: center;
     align-items: center;
     text-align: center;
     display: flex;
 }
-footer .part2 ul i {
+footer .part2 div i {
     font-size: 40px;
     margin: 20px;
 }
