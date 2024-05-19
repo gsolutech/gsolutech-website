@@ -128,6 +128,14 @@ p {
 }
 
 /* contact */
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(227, 223, 223);
+    margin: 10px;
+}
 
 .hk{
     width: 420px;
