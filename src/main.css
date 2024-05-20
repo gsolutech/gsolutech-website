@@ -126,18 +126,18 @@ p {
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
-.contact{
+.contacte{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    /* min-height: 100vh;
     background: none;
-    margin: 10px;
+    margin: 10px; */
 }
 
 .hk{
     width: 420px;
-    background: rgba(215, 212, 212, 0.913);
+    background: rgba(255, 249, 249, 0.767);
     color: white;
     border-radius: 10px;
     padding: 30px 60px;
@@ -145,7 +145,7 @@ p {
     backdrop-filter: blur(20px);
     box-shadow: 0 0 10px rgba(118, 110, 110, 0.2);
 }
-.hk h1{
+.hk h2{
     font-size: 30px;
     text-align: center;
     color: black;
@@ -165,7 +165,7 @@ p {
 .G-solutech input{
      width: 100%;
      height: 100%;
-     background: rgba(165, 162, 162, 0.509);
+     background: rgba(202, 201, 201, 0.509);
      border: none;
      outline: none;
      border: 2px solid rgba(255, 255, 255, .2);
@@ -179,7 +179,7 @@ p {
 .Go-solutech textarea{
     width: 100%;
     height: 100%;
-    background: rgba(165, 162, 162, 0.509);
+    background: rgba(202, 201, 201, 0.509);
     border: none;
     outline: none;
     border: 2px solid rgba(255, 255, 255, .2);
@@ -197,7 +197,7 @@ p {
 .hk .bouton{
     width: 50%;
     height: 35px;
-    background: steelblue;
+    background: #339999;
     border: none;
     outline: none; 
     border-radius: 10px;
@@ -207,7 +207,7 @@ p {
     font-weight: 500;
     margin-left: 30px;
 }
-.contact img{
+.contacte img{
     width: 20%;
     margin-left: -450px;
     position: absolute;
